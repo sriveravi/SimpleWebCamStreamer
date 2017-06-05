@@ -1,5 +1,5 @@
 import cv2
-import Image
+from PIL import Image
 import time
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 from StringIO import StringIO

@@ -13,4 +13,4 @@ $sudo apt-get install python-opencv
 1. Install requirements and make sure they work properly.
 2. Download SimpleWebStreamer.py to your computer.
 3. run server by typing this command : $python SimpleWebStreamer.py
-4. Open your web browser with url http://<your computer address>:8080/stream
+4. Open your web browser with url http://localhost:8080/stream
